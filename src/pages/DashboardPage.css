@@ -367,6 +367,14 @@
   gap: 6px;
 }
 
+.current-half .half-label svg {
+  color: var(--success);
+}
+
+.recommend-half .half-label svg {
+  color: var(--warning);
+}
+
 /* Account Mini Card */
 .account-mini-card {
   background: var(--bg-secondary);
